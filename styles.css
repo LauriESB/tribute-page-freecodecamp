@@ -45,7 +45,7 @@ main {
     font-family: "Inter", sans-serif;
 }
 
-#title, #img-div #image {
+#title, #img-div #image, #img-caption {
     display: flex;
     justify-content: center; 
 }
@@ -58,7 +58,6 @@ main {
 
 #img-caption {
     font-size: 20px;
-    margin-left: 24%;
     font-family: "Cairo", sans-serif;
 }
 
