@@ -19,7 +19,7 @@ In this project I talked about Joey Jordison, form Slipknot member and creator, 
 
 <br>
 
-<details>
+<details open>
 <summary align="left">Project's screenshot</summary>
 <br>
 
