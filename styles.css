@@ -1,104 +1,103 @@
 * {
-    margin: 0 auto;
+  margin: 0 auto;
 }
-    
+
 header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 12vh;
-    position: fixed;
-    background-color: rgb(0, 0, 0);
-    /*background-color: rgba(32,33,36,255);*/  
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 9px;
-    border-radius: 0 0 20px 20px;   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 12vh;
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+  /*background-color: rgba(32,33,36,255);*/
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 4px 9px;
+  border-radius: 0 0 20px 20px;
 }
 
 #logo {
-    width: 100px;
-    margin-right: -26%;
-    margin-left: 20%;
+  width: 100px;
+  margin-right: -26%;
+  margin-left: 20%;
 }
 
-nav ul li{
-    
-    display: inline-block;
-    font-size: 30px;
-    text-decoration: none;
-    font-family: "Inter", sans-serif;
+nav ul li {
+
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
 }
 
-li > a {
-    padding: 30px;
-    text-decoration: none;
-    color: white;
+li>a {
+  padding: 30px;
+  text-decoration: none;
+  color: white;
 }
 
 main {
-    padding-top: 7.5%; 
+  padding-top: 7.5%;
 }
 
 #title {
-    padding-top: 35px;
-    padding-bottom: 60px;
-    font-family: "Inter", sans-serif;
+  padding-top: 35px;
+  padding-bottom: 60px;
+  font-family: "Inter", sans-serif;
 }
 
-#title, #img-div #image, #img-caption {
-    display: flex;
-    justify-content: center; 
+#title,
+#img-div #image,
+#img-caption {
+  display: flex;
+  justify-content: center;
 }
 
 
 
 #image {
-    max-width: 100%;
-    height: auto;
-    border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
 }
 
 #img-caption {
-    font-size: 20px;
-    font-family: "Cairo", sans-serif;
+  font-size: 20px;
+  font-family: "Cairo", sans-serif;
 }
 
 #tribute-info {
-    padding: 50px 0;
-    width: 60%;
+  padding: 50px 0;
+  width: 60%;
 }
 
 #life-death {
-    padding: 20px 0;
-    font-size: 35px;
-    font-family: "Inter", sans-serif;
+  padding: 20px 0;
+  font-size: 35px;
+  font-family: "Inter", sans-serif;
 }
 
-#tribute-info > p {
-    padding: 10px 10px;
-    font-size: 25px;
-    font-family: "Cairo", sans-serif;
-    text-align: justify;
+#tribute-info>p {
+  padding: 10px 10px;
+  font-size: 25px;
+  font-family: "Cairo", sans-serif;
+  text-align: justify;
 }
 
 
 #video {
-    border: none;
-    padding: 40px 0;
-    display: flex;
-    justify-content: center; 
+  border: none;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
 }
 
-footer{
-    background-color: black;
-    height: 10vh;
-    color: white;
-    font-size: 20px;
-    font-family: "Cairo", sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+footer {
+  background-color: black;
+  height: 10vh;
+  color: white;
+  font-size: 20px;
+  font-family: "Cairo", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
-
-
